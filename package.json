@@ -1,0 +1,9 @@
+{
+  "name": "ideas-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool that helps you to quickly take down your thoughts and ideas before you forget about them.",
+  "main": "index.js",
+  "repository": "https://github.com/hpkishere/ideas-cli",
+  "author": "Hendro",
+  "license": "MIT"
+}
