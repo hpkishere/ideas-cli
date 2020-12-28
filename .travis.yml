@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - node
+script:
+  - echo '****BUILD STARTS****'
+  - echo 'Installing Dependencies'
+  - yarn
+  - echo 'Running tests'
+  - yarn test
