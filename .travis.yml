@@ -5,5 +5,5 @@ script:
   - echo '****BUILD STARTS****'
   - echo 'Installing Dependencies'
   - yarn
-  - echo 'Running tests'
+  - echo '****Running tests****'
   - yarn test
